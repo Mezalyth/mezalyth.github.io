@@ -153,6 +153,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Open posts after composing 
+jekyll_compose:
+  auto_open: true
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
